@@ -26,3 +26,6 @@ That is why I am currently invested in Applied AI and Developer Tools.
 </p>
 
 <p align="right">Oh yeah, I'm not French btw, don't ask how the name came</p>
+
+
+<h4>Most of my Work projects are Private, but here are a few Public ones:</h4>
