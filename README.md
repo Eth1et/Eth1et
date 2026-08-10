@@ -25,7 +25,5 @@ That is why I am currently invested in Applied AI and Developer Tools.
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 </p>
 
-<p align="right">Oh yeah, I'm not French btw, don't ask how the name came</p>
-
 
 <h4>Most of my Repos are Private, but here are a few Public ones:</h4>
